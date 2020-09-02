@@ -1,0 +1,9 @@
+.vs
+.idea
+go.sum
+*~
+.*.sw[op]
+*.mp4
+*.avi
+*.mov
+*.wmv
